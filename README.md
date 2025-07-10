@@ -1,6 +1,6 @@
 # 🐾 Painel de Atendimentos Pet Sitter - Cãopanhia
 
-Este projeto simula um painel de controle criado com **Power BI** para analisar os atendimentos de Pet Sitting realizados pela empresa fictícia **Cãopanhia**. Os dados utilizados são simulados, mas representam de forma fiel um cenário real de prestação de serviços para pets.
+Este projeto simula um painel de controle criado com **Power BI** para analisar os atendimentos de Pet Sitting realizados pela empresa fictícia **Cãopanhia**. Os dados utilizados são simulados, mas representam de forma fiel, pois foram baseados na minha atuação como pet sitter autônoma, onde cuidei de cães e gatos diretamente na casa dos tutores com muito carinho e responsabilidade. Essa experiência real inspirou a criação deste projeto!
 
 ---
 
